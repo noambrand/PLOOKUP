@@ -1,0 +1,4 @@
+If you do not know your Excel bit try 64bit first, because it is more common on modern PCs.
+If you  try the wrong bit Excel will show a message box upon opening, then you will know to choose the the other folder.
+
+Ps Excel bit has nothing to do with your Windows bit (You may have a 64-bit Windows with 32-bit Excel installed).
